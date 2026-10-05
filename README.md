@@ -38,7 +38,7 @@ To access the live demo, please visit the link above.
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Object-ions/pure-mineral-aesthetics.git
+git clone https://github.com/switchcasestudio/pure-mineral-aesthetics.git
 cd pure-mineral-aesthetics
 npm install
 ```
